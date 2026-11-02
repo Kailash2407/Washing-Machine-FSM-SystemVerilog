@@ -1,0 +1,12 @@
+# ModelSim / QuestaSim artifacts
+work/
+transcript
+*.wlf
+*.vstf
+*.log
+modelsim.ini
+covhtmlreport/
+
+# OS metadata
+Thumbs.db
+.DS_Store
